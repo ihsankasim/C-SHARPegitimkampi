@@ -1,0 +1,7 @@
+C:\Users\ihsan\source\repos\csharp egitimkampi\01_mainsubjects\obj\Debug\01_mainsubjects.csproj.AssemblyReference.cache
+C:\Users\ihsan\source\repos\csharp egitimkampi\01_mainsubjects\obj\Debug\01_mainsubjects.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\source\repos\csharp egitimkampi\01_mainsubjects\bin\Debug\01_mainsubjects.exe.config
+C:\Users\ihsan\source\repos\csharp egitimkampi\01_mainsubjects\bin\Debug\01_mainsubjects.exe
+C:\Users\ihsan\source\repos\csharp egitimkampi\01_mainsubjects\bin\Debug\01_mainsubjects.pdb
+C:\Users\ihsan\source\repos\csharp egitimkampi\01_mainsubjects\obj\Debug\01_mainsubjects.exe
+C:\Users\ihsan\source\repos\csharp egitimkampi\01_mainsubjects\obj\Debug\01_mainsubjects.pdb
